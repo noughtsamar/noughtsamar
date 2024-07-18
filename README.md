@@ -1,6 +1,6 @@
 ### Hi there👋 I'm Samar!
     I'm a Computer Science junior at PES University, Bangalore. My primary interests lie in machine learning,
-    deep learning, cloud and competetive programming.
+    deep learning, cloud and competitive programming.
     
 - 🌱 I'm currently learning Web Development and ML
 - 👯 I’m looking to collaborate on frontend and machine learning projects
